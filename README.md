@@ -1,4 +1,4 @@
-[![forthebadge](badges/uses-monogame.svg)
+![forthebadge](badges/uses-monogame.svg)
 
 A simple 3D engine built using MonoGame/C#.
 
